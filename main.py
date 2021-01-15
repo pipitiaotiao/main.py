@@ -46,7 +46,7 @@ for i in c:
         if i == x[1]:
             #print(x[0])
             y.append(x[0])
-print(y)
+#print(y)
 # result2 = str(res)
 # with open(r'C:\Users\16317\PycharmProjects\pythonProject3\111.txt', mode='w') as f:
 #  for i in res:
